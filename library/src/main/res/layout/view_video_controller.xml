@@ -23,8 +23,7 @@
         android:layout_alignParentTop="true"
         android:padding="7dp"
         app:left_thumb_image="@drawable/ic_min_seek"
-        app:right_thumb_image="@drawable/ic_max_seek"
-        />
+        app:right_thumb_image="@drawable/ic_max_seek" />
 
     <com.gowtham.library.ui.seekbar.widgets.CrystalSeekbar
         android:layout_width="match_parent"
@@ -37,8 +36,7 @@
         app:thumb_image="@drawable/ic_vertical_line"
         android:id="@+id/seekbar_controller"
         android:elevation="4dp"
-        android:padding="8dp"
-        />
+        android:padding="8dp" />
 
     <LinearLayout
         style="@style/LView"
@@ -96,4 +94,5 @@
             android:paddingBottom="10dp"
             style="@style/ImageTrim" />
     </LinearLayout>
+
 </RelativeLayout>
