@@ -527,7 +527,7 @@ public class ActVideoTrimmer extends LocalizationActivity {
             }
             execFFmpegBinary(complexCommand, true);
         } else
-            Toast.makeText(this, getString(R.string.txt_smaller) + " " + TrimmerUtils.getLimitedTimeFormatted(maxToGap), Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, getString(R.string.txt_smaller), Toast.LENGTH_SHORT).show();
     }
 
     private String getFileName() {
