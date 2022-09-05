@@ -7,7 +7,7 @@
     <string name="txt_failed_to_trim">Failed to trim</string>
     <string name="txt_cancel">Cancel</string>
     <string name="txt_dlah">\\</string>
-    <string name="txt_smaller">동영상은 15초 이하로 선택해주세요.</string>
+    <string name="txt_smaller">동영상은 15초 이하로 선택해주세요.(Max 15 seconds)</string>
     <string name="edit_video">Edit Video</string>
     <string name="txt_compress_video">Compressing Video…</string>
     <string name="txt_edt_video">Edit Video</string>
